@@ -28,10 +28,10 @@ Running both is fine: the reminder nudges early on argument-identical repeats; t
 ## Install
 
 ```sh
-dsh plugin --profile <name> add dsh-loop-guard
+dsh plugin --profile <name> add github:erdholion/dsh-loop-guard
 ```
 
-Or from a checkout: `dsh plugin --profile <name> add ./dsh-loop-guard`.
+Or from a local checkout: `dsh plugin --profile <name> add ./dsh-loop-guard`.
 
 ## Behavior
 
