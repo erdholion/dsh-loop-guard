@@ -16,6 +16,12 @@
     "agent"
   ],
   "license": "MIT",
+  "author": "Ilir",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erdholion/dsh-loop-guard.git"
+  },
+  "homepage": "https://github.com/erdholion/dsh-loop-guard#readme",
   "peerDependencies": {
     "@deepseek-ai/dsh-llm": "*",
     "@deepseek-ai/schemastery": "*"
